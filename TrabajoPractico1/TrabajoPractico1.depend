@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1618595926 source:d:\facultad\laboratorio 1\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tomas.h"
+
+1618530549 source:d:\facultad\laboratorio 1\trabajopractico1\tomas.c
+	<stdio.h>
+	<stdlib.h>
+	"tomas.h"
+
+1618530851 d:\facultad\laboratorio 1\trabajopractico1\tomas.h
+
