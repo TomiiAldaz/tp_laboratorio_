@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1565993298 source:d:\facultad\laboratorio 1\tp3cascara1a\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1565993298 d:\facultad\laboratorio 1\tp3cascara1a\linkedlist.h
+
+1565993298 d:\facultad\laboratorio 1\tp3cascara1a\employee.h
+
+1565993298 source:d:\facultad\laboratorio 1\tp3cascara1a\employee.c
+
+1624313203 source:d:\facultad\laboratorio 1\tp3cascara1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1565993298 d:\facultad\laboratorio 1\tp3cascara1a\controller.h
+
+1565993298 source:d:\facultad\laboratorio 1\tp3cascara1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
